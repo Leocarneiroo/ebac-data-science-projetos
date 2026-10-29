@@ -1,6 +1,6 @@
 # EBAC — Profissão Cientista de Dados
 
-Repositório com os projetos práticos mais relevantes desenvolvidos durante o curso **Profissão Cientista de Dados** da EBAC, cobrindo machine learning supervisionado e não supervisionado, validação de modelos, SQL e visualização de dados.
+Repositório com os projetos práticos mais relevantes desenvolvidos durante o curso **Profissão Cientista de Dados** da EBAC, cobrindo machine learning supervisionado e não supervisionado, validação de modelos e visualização de dados.
 
 ## Projetos
 
@@ -18,14 +18,13 @@ Repositório com os projetos práticos mais relevantes desenvolvidos durante o c
 - **Validação:** Cross Validation (KFold 5/10), GridSearchCV, RandomizedSearchCV
 - **Métricas:** ROC/AUC, classification report, matriz de confusão, R², MSE, MAE
 - **Regularização:** Lasso (L1), Ridge (L2), ElasticNet
-- **SQL:** SELECT, JOIN, DDL (CREATE/INSERT), agregações
 - **Visualização:** matplotlib, seaborn, plotly (11 tipos de gráficos)
 
 ## Stack
 
 ```
 Python 3 • pandas • numpy • scikit-learn • imblearn • scipy
-matplotlib • seaborn • plotly • sqlite3
+matplotlib • seaborn • plotly
 ```
 
 ## Como executar
